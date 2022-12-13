@@ -8,7 +8,7 @@ authors = [
     {name = "Ryan Benmalek", email = "ryanai3@hotmail.com"},
 ]
 dependencies = [
-    "hy>=0.20.0",
+    "hy==0.25.0",
 ]
-requires-python = ">=3.10"
+requires-python = ">=3.11,<3.12"
 license = {text = "MIT"}

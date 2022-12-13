@@ -7,6 +7,8 @@ description = ""
 authors = [
     {name = "Ryan Benmalek", email = "ryanai3@hotmail.com"},
 ]
-dependencies = []
+dependencies = [
+    "hy>=0.20.0",
+]
 requires-python = ">=3.10"
 license = {text = "MIT"}
